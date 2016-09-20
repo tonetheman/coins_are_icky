@@ -11,5 +11,9 @@ All the code written in livecoding.py is from the night of 2016 09 19.
 
 The ruby implementation is quite a bit better than mine. HA.
 
+The prezi is here http://prezi.com/_2upyenn9k6z/?utm_campaign=share&utm_medium=copy
+
+thanks for everyone showing up to listen!
+
 Tony
 	
